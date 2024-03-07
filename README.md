@@ -19,4 +19,4 @@ The authors do not have the authority to disclose the collected private dataset 
 
 ## Thanks
 
-The code is modified based on the these projects: [CARD](https://github.com/XzwHan/CARD), [Diffmic](https://github.com/scott-yjyang/DiffMIC)
+The code is modified based on the these projects: [CARD](https://github.com/XzwHan/CARD), [DiffMIC](https://github.com/scott-yjyang/DiffMIC)
