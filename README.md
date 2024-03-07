@@ -1,4 +1,4 @@
-## MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis Diagnosis in Esophageal Cancer
+![image](https://github.com/wuchengyu123/MMFusion/assets/75082910/c4ec0b60-ab34-49b4-812a-99034c072c56)## MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis Diagnosis in Esophageal Cancer
 
 ## A Quick Overview 
 
@@ -11,7 +11,11 @@
 
 ## Training and evaluation
 
-The training and evaluation code can be obtained in  ``main.py``
+The training and evaluation code can be seen in  ``main.py``. The code of proposed model can be seen in  ``/model``.
+
+## Dataset
+
+The authors do not have the authority to disclose the collected private dataset due to ethical review and privacy concerns of the patients being collected. In the future, more studies will be based on this dataset, and further requirements for de-privatized dataset access will be considered.
 
 ## Thanks
 
