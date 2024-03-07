@@ -2,7 +2,7 @@
 
 ## A Quick Overview 
 
-<img width="800" height="700" src="https://github.com/wuchengyu123/MMFusion/blob/main/framework.png">
+<img width="800" height="600" src="https://github.com/wuchengyu123/MMFusion/blob/main/framework.png">
 
 
 ## Requirement
