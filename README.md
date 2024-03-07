@@ -26,7 +26,7 @@ Due to ethical review and privacy concerns related to the patients from whom the
 
 🧀We will conduct further research based on this dataset. Additionally, we will consider making part of our dataset public in the future.
 
-🔑 We apologize again but due to confidentiality agreements, we are currently unable to disclose the dataset.
+🔑 We apologize again but due to confidentiality agreements, we are currently unable to disclose our dataset.
 
 ## Acknowlegment
 
