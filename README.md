@@ -1,4 +1,4 @@
-![image](https://github.com/wuchengyu123/MMFusion/assets/75082910/c4ec0b60-ab34-49b4-812a-99034c072c56)## MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis Diagnosis in Esophageal Cancer
+## MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis Diagnosis in Esophageal Cancer
 
 ## A Quick Overview 
 
