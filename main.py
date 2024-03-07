@@ -102,6 +102,7 @@ def main(random_seeds,batch_size,X,y,epochs,lr,weight_decay,start_t,end_T,num_cl
             guide_pred_train = None
             y_true_train = None
 
+            # Train
             for batch in train_loader:
                 t_img = batch['t_img']
                 blood_data = batch['blood_data']
@@ -203,7 +204,7 @@ def main(random_seeds,batch_size,X,y,epochs,lr,weight_decay,start_t,end_T,num_cl
             y_true = None
             y_pred = None
             guide_pred = None
-
+            # Evaluation
             print('start evaluate... epoch:{}'.format(epoch))
             for batch in valid_loader:
                 t_img = batch['t_img']
