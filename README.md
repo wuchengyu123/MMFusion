@@ -22,11 +22,8 @@ The training and evaluation code can be overviewed in  ``main.py``. The code of 
 
 ## Dataset
 
-Due to ethical review and privacy concerns related to the patients from whom the dataset was collected, the dataset used in the paper can not be made publicly available at this time. Currently, you can use your own multimodal dataset to run the code. The data types and requirements can be set according to ``/dataloader/Dataset.py``.
+Due to ethical review and privacy concerns related to the patients from whom the dataset was collected, the author have no rights to make the dataset publicly available. Currently, you can use your own multimodal dataset to run the code. The data types and requirements can be set according to ``/dataloader/Dataset.py``.
 
-🧀We will conduct further research based on this dataset. Additionally, we will consider making part of our dataset public in the future.
-
-🔑 Due to confidentiality agreements, we are currently unable to disclose our dataset.
 
 ## Acknowlegment
 
