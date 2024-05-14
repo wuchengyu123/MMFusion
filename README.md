@@ -1,7 +1,7 @@
 ## MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis Diagnosis in Esophageal Cancer
 
 ## News
-Our paper has been early accpetance by MICCAI 2024 under (5/6/6) !!!
+Our paper has been early accpeted by MICCAI 2024 under (5/6/6) !!!
 
 ## A Quick Overview 
 
