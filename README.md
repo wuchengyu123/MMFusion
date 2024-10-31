@@ -40,6 +40,8 @@ The training and evaluation code can be overviewed in  ``main.py``. The code of 
 
 Due to existing ethical review and privacy concerns related to the patients from whom the dataset was collected, the authors have no rights to make the dataset publicly available. Currently, it is recommended use your own multimodal dataset to run the code. The data types and requirements can be set according to ``/dataloader/Dataset.py``.
 
+Pretrained model will be released!
+
 
 ## Acknowlegment
 
